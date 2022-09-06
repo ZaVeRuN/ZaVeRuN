@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ZaVeRuN
 - 👀 I’m interested in web develop
-- 🌱 I’m currently learning JavaScript, PhP, React.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, React.js, GraphQL.
 - 📫 How to reach me www.linkedin.com/in/edgar-zavereiko
